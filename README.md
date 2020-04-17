@@ -36,7 +36,7 @@ should be a custom development, that doesnt have to be upstreamed.
 ## Developing
 To develop the PCBs, simply clone this repository with 
 ```
-git clone --recursive https://gitlab.com/anuejn/axiom-micro-hardware
+git clone --recursive https://github.com/apertus-open-source-cinema/axiom-micro-mainboard
 ```
 
 Then simply use Kicad to edit the scematics and PCB.
